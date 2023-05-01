@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <p>I'm a skilled front end developer and I'm learning React.js technology at the moment</p>
 <h3>Area of Expertise<h3/><hr>
 <h6>Languages</h6>
-<li>HTML<li/><li>CSS<li/><li>JavaScript<li/><li>Python<li/><li>SQL<li/>
+<li>HTML<li>CSS<li>JavaScript<li>Python<li>SQL
 <h6>Libraries and Frameworks</h6>
-<li>BootStrap<li/><li>JQuery<li/><li>React.js<li/>
-
-<br><br><br>
+<li>BootStrap<li>JQuery<li>React.js
+<hr>
+<br><br>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=damdave&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&showicons=true&hide_border=true)]()
 
