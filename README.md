@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=damdave&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&langs_count=5&theme=tokyonight)]()
--->
 
-![](https://github-readme-stats.vercel.app/api?username=damdave&theme=dark&hide_border=true&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=damdave&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api?username=damdave&theme=dark&hide_border=true&include_all_commits=true&count_private=true)</br></br>
+&nbsp;&nbsp;&nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=damdave&theme=dark&hide_border=true)<br/></br>
+&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
