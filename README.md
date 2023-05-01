@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <br><br>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=damdave&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&showicons=true&hide_border=true)]()&nbsp;&nbsp;&nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&langs_count=5&theme=tokyonight&hide_border=true)]()&)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&showicons=true&hide_border=true)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&langs_count=5&theme=tokyonight&hide_border=true)]()
 
-&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
