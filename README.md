@@ -1,4 +1,4 @@
-##. <b>Hi there,I'm Damdave</b>👋<br>
+## <b>Hi there,I'm Damdave</b>👋<br>
 <p>I'm a very inquisitive person and exploring how I could bring my imagination to reality with codes is definitely something I love doing</p>
 <p>I'm a skilled front end developer and I'm learning React.js technology at the moment</p>
 <h3>Area of Expertise<h3/><hr>
