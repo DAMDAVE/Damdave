@@ -1,5 +1,5 @@
 ## <b>Hi fellas, I'm Damdave</b>✌️<br>
-<img src="https://damdave.github.io/damdave.com/IMAGES/Profile.jpg" width="150" height="150">
+<img src="https://damdave.github.io/damdave.com/IMAGES/Profile.jpg" width="150" height="150" border-radius="50" >
 <p>I'm a very inquisitive person and exploring how I could bring my imagination to reality with codes is definitely something I love doing.</p>
 <p>I'm a skilled front end developer and I'm learning React.js technology at the moment.</p>
 <h3>Area of Expertise</h3><hr>
