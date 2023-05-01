@@ -12,4 +12,4 @@
 <br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)]() <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&layout=compact)
