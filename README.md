@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <h6>Libraries and Frameworks</h6>
 <li>BootStrap<li>JQuery<li>React.js
 <hr>
+
 <br><br>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=damdave&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=damdave&count_private=true&theme=tokyonight&showicons=true&hide_border=true)]()
 
