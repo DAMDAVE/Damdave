@@ -1,7 +1,7 @@
 ## <b>Hi there, I'm Omoyajowo David Oyindamola</b>✌️<br>
-<div align="center">
-  <img src="./mypic.jpg" width="200" height="180">
-</div>
+
+ <img src="./mypic.jpg" width="200" height="180">
+ 
 <p>I'm a very inquisitive person and exploring how I could bring my imagination to reality with codes is definitely something I love doing.</p>
 <p>I'm a skilled Front-End developer with over 2 years of experience</p>
 <h3>Area of Expertise</h3><hr>
