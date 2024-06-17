@@ -1,9 +1,8 @@
-## <b>Hi there, I'm Omoyajowo David Oyindamola</b>✌️<br>
+### About Me
 
- <img src="./mypic.jpg" width="200" height="180">
- 
-<p>I'm a very inquisitive person and exploring how I could bring my imagination to reality with codes is definitely something I love doing.</p>
-<p>I'm a skilled Front-End developer with over 2 years of experience</p>
+Hello! 👋 I'm Omoyajowo David Oyindamola, a passionate software developer with a keen interest in Front-End Web Development. I enjoy building innovative solutions and continuously learning about new technologies.
+
+### 🌟 Skills & Expertise
 <h3>Area of Expertise</h3><hr>
 <h5>Languages</h5>
 <li>HTML<li>CSS<li>JavaScript
