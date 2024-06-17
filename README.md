@@ -4,7 +4,7 @@
 <p>I'm a skilled Front-End developer with over 2 years of experience</p>
 <h3>Area of Expertise</h3><hr>
 <h5>Languages</h5>
-<li>HTML<li>CSS<li>JavaScript<li>
+<li>HTML<li>CSS<li>JavaScript
 <h5>Libraries and Frameworks</h5>
 <li>React.js<li>Vite<li>Tailwind<li>Sass
 <hr>
