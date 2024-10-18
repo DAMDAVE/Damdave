@@ -11,4 +11,4 @@ Hello! I'm David Omoyajowo, a passionate software developer with a keen interest
   
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=damdave&theme=tokyonight)](https://github.com/damdave/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true)
