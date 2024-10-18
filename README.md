@@ -8,6 +8,6 @@ Hello! I'm David Omoyajowo, a passionate software developer with a keen interest
 <li>HTML<li>CSS<li>JavaScript
 <h5>Libraries and Frameworks</h5>
 <li>Reactjs<li>Nextjs</li>Vite<li>Tailwind
-<br>
+  
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=damdave)](https://github.com/damdave/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damdave&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&layout=compact)
