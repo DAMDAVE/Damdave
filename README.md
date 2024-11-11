@@ -5,7 +5,7 @@ Hello! I'm David Omoyajowo, a passionate software developer with a keen interest
 ### Skills & Expertise
 
 <h5>Languages</h5>
-<li>HTML<li>CSS<li>JavaScript
+<li>HTML<li>CSS<li>JavaScript<li>Typescript
 <h5>Libraries and Frameworks</h5>
 <li>Reactjs<li>Nextjs<li>Vite<li>Tailwind
   
